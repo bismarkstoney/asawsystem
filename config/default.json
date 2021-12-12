@@ -1,4 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://bkobeng:winsrv2008@cluster0.88tme.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-	"jwtSecret": "New world"
+	"mongoURI": "",
+	"jwtSecret": ""
 }
